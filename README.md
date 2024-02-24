@@ -1,2 +1,0 @@
-# -CBTCIP-
-iris flower classification
